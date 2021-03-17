@@ -1,0 +1,33 @@
+C:\Users\Diana\.jdks\jdk-12\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\lib\idea_rt.jar=50677:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\bin" -Dfile.encoding=UTF-8 -classpath D:\com.kushnir.task1Hybris\build\classes\java\main collections.lesson5.Application
+HashMap key:Brilliant
+HashMap key:Joy
+HashMap key:Confidence
+HashMap key:Brave
+HashMap value:exceptionally clever or talented
+HashMap value:a filling of great pleasure or happiness.
+HashMap value:the state of filling certain about the truth of something.
+HashMap value:ready to face and endure danger or pain; showing courage.
+
+HashMap key:value
+Brilliant: exceptionally clever or talented
+Joy: a filling of great pleasure or happiness.
+Confidence: the state of filling certain about the truth of something.
+Brave: ready to face and endure danger or pain; showing courage.
+
+LinkedHashMap key:Brave
+LinkedHashMap key:Brilliant
+LinkedHashMap key:Joy
+LinkedHashMap key:Confidence
+LinkedHashMap value:ready to face and endure danger or pain; showing courage.
+LinkedHashMap value:exceptionally clever or talented
+LinkedHashMap value:a filling of great pleasure or happiness.
+LinkedHashMap value:the state of filling certain about the truth of something.
+
+TreeMap key:value
+Brave: ready to face and endure danger or pain; showing courage.
+Brilliant: xxxxxxxxxxx
+Confidence: the state of filling certain about the truth of something.
+Joy: a filling of great pleasure or happiness.
+
+
+Process finished with exit code 0

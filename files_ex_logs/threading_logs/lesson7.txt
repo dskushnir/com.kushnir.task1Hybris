@@ -1,0 +1,12 @@
+C:\Users\Diana\.jdks\jdk-12\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\lib\idea_rt.jar=50763:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\bin" -Dfile.encoding=UTF-8 -classpath D:\com.kushnir.task1Hybris\build\classes\java\main threading.lesson7.threadPools.ThreadPoolDemo
+pool-1-thread-1[RECEIVED] message = 2
+pool-1-thread-2[RECEIVED] message = 3
+Submitted all task...
+pool-1-thread-1(DONE) Processing message = 2
+pool-1-thread-2(DONE) Processing message = 3
+pool-1-thread-1[RECEIVED] message = 4
+pool-1-thread-2[RECEIVED] message = 5
+pool-1-thread-1(DONE) Processing message = 4
+pool-1-thread-2(DONE) Processing message = 5
+
+Process finished with exit code 0

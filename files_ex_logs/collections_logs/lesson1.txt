@@ -1,0 +1,19 @@
+C:\Users\Diana\.jdks\jdk-12\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\lib\idea_rt.jar=50653:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\bin" -Dfile.encoding=UTF-8 -classpath D:\com.kushnir.task1Hybris\build\classes\java\main collections.lesson1.Application
+ArrayList before Java 5
+19
+
+ArrayList after Java 5
+10
+
+LinkedList before remove the first element
+100
+200
+45
+1000
+
+LinkedList after remove the first element
+200
+45
+1000
+
+Process finished with exit code 0

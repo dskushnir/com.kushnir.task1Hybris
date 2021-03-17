@@ -1,0 +1,34 @@
+C:\Users\Diana\.jdks\jdk-12\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\lib\idea_rt.jar=50671:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\bin" -Dfile.encoding=UTF-8 -classpath D:\com.kushnir.task1Hybris\build\classes\java\main collections.lesson4.Application
+List1:[12, 43, 15, 67, 43]
+
+NewList:[10]
+
+List1 after addALL(newList);
+[12, 43, 15, 67, 43, 10]
+
+List1 has value 67:true
+
+List1 has value 48:false
+
+Is list1 empty:false
+
+List1 after removeALL(newList);
+[12, 43, 15, 67, 43]
+
+List1 after removeALL(newList has been added some values: 67, 15);
+[12, 43, 43]
+
+Lis1:[12, 43, 43, 15, 67, 10, 10, 10, 10]
+NewList:[10, 67, 15]
+List1  after  retainAll(newList);:[15, 67, 10, 10, 10, 10]
+
+Is list1 empty after clear():true
+
+List<Integer> from HashSet:[67, 10, 43, 12, 15]
+List<Integer> after sort();:[10, 12, 15, 43, 67]
+
+List <String> from HashSet after sort():[Cloths, Computer, Random, Tooth brush]
+
+List<Employee> from HashSet after sort(); by salary:[Employee{name='Angel', salary=2000, department='Maint'}, Employee{name='Paul', salary=3000, department='Admin'}, Employee{name='Mike', salary=3500, department='Accounting'}, Employee{name='Peter', salary=4000, department='IT'}]
+
+Process finished with exit code 0

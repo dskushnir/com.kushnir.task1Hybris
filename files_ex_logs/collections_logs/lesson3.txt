@@ -1,0 +1,29 @@
+C:\Users\Diana\.jdks\jdk-12\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\lib\idea_rt.jar=50664:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\bin" -Dfile.encoding=UTF-8 -classpath D:\com.kushnir.task1Hybris\build\classes\java\main collections.lesson3.Application
+HashSet integerValue
+17
+67
+43
+15
+
+HashSet stringValue
+Random
+Animal
+People
+
+LinkedHashSet stringValue
+Random
+Animal
+People
+Zoo
+Car
+
+Is animal1.equals(animal4):true
+Animal1.hashCode():2136625
+Animal4.hashCode():2136625
+
+Animal{name='Dog', age=12}
+Animal{name='Kangaroo', age=24}
+Animal{name='Bird', age=3}
+Animal{name='Cat', age=8}
+
+Process finished with exit code 0

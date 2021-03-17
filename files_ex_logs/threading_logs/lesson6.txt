@@ -1,0 +1,62 @@
+C:\Users\Diana\.jdks\jdk-12\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\lib\idea_rt.jar=50755:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\bin" -Dfile.encoding=UTF-8 -classpath D:\com.kushnir.task1Hybris\build\classes\java\main threading.lesson6ProducerConsumer.Application
+Got new Question: 0
+Got new Question: 1
+Got new Question: 2
+Got new Question: 3
+Got new Question: 4
+Got new Question: 5
+ANSWERED Question: 1
+Got new Question: 6
+ANSWERED Question: 2
+ANSWERED Question: 3
+Got new Question: 7
+ANSWERED Question: 4
+Got new Question: 8
+ANSWERED Question: 5
+Got new Question: 9
+ANSWERED Question: 6
+Got new Question: 10
+ANSWERED Question: 7
+Got new Question: 11
+ANSWERED Question: 8
+Got new Question: 12
+ANSWERED Question: 9
+Got new Question: 13
+ANSWERED Question: 10
+Got new Question: 14
+ANSWERED Question: 11
+Got new Question: 15
+ANSWERED Question: 12
+Got new Question: 16
+ANSWERED Question: 13
+Got new Question: 17
+ANSWERED Question: 14
+Got new Question: 18
+ANSWERED Question: 15
+Got new Question: 19
+ANSWERED Question: 16
+Got new Question: 20
+ANSWERED Question: 17
+Got new Question: 21
+ANSWERED Question: 18
+Got new Question: 22
+ANSWERED Question: 19
+Got new Question: 23
+ANSWERED Question: 20
+Got new Question: 24
+ANSWERED Question: 21
+Got new Question: 25
+ANSWERED Question: 22
+Got new Question: 26
+ANSWERED Question: 23
+Got new Question: 27
+ANSWERED Question: 24
+Got new Question: 28
+ANSWERED Question: 25
+Got new Question: 29
+ANSWERED Question: 26
+Got new Question: 30
+ANSWERED Question: 27
+Got new Question: 31
+ANSWERED Question: 28
+Got new Question: 32

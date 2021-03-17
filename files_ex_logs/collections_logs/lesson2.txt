@@ -1,0 +1,40 @@
+C:\Users\Diana\.jdks\jdk-12\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\lib\idea_rt.jar=50658:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\bin" -Dfile.encoding=UTF-8 -classpath D:\com.kushnir.task1Hybris\build\classes\java\main collections.lesson2.Application
+Lion
+Cat
+Dog
+Bird
+
+Lion
+Cat
+Dog
+Bird
+
+ArrayList vehicles before toString was overridden
+Honda
+Accord
+1200
+
+Toyota
+Camry
+1200
+
+Jeep
+Wrangler
+2500
+
+ArrayList vehicles after toString was overridden
+Vehicle{make='Honda', model='Accord', price=1200, fourWDrive=false}
+Vehicle{make='Toyota', model='Camry', price=1200, fourWDrive=false}
+Vehicle{make='Jeep', model='Wrangler', price=2500, fourWDrive=true}
+
+Print with method printElements();
+Lion
+Cat
+Dog
+Bird
+
+Vehicle{make='Honda', model='Accord', price=1200, fourWDrive=false}
+Vehicle{make='Toyota', model='Camry', price=1200, fourWDrive=false}
+Vehicle{make='Jeep', model='Wrangler', price=2500, fourWDrive=true}
+
+Process finished with exit code 0

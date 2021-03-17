@@ -1,0 +1,41 @@
+C:\Users\Diana\.jdks\jdk-12\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\lib\idea_rt.jar=50741:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.1\bin" -Dfile.encoding=UTF-8 -classpath D:\com.kushnir.task1Hybris\build\classes\java\main threading.lesson5ProducerConsumer.Application
+New Question0
+New Question1
+New Question2
+ANSWERED Question 0
+ANSWERED Question 1
+New Question3
+New Question4
+ANSWERED Question 2
+ANSWERED Question 3
+ANSWERED Question 4
+No Question to answer... waiting for Producer to get question
+New Question5
+New Question6
+New Question7
+New Question8
+New Question9
+Question have pilled up ... wait for answer
+ANSWERED Question 5
+ANSWERED Question 6
+ANSWERED Question 7
+ANSWERED Question 8
+ANSWERED Question 9
+No Question to answer... waiting for Producer to get question
+New Question10
+New Question11
+New Question12
+New Question13
+New Question14
+Question have pilled up ... wait for answer
+ANSWERED Question 10
+ANSWERED Question 11
+ANSWERED Question 12
+ANSWERED Question 13
+ANSWERED Question 14
+New Question15
+New Question16
+New Question17
+New Question18
+New Question19
+Question have pilled up ... wait for answer
